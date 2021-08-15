@@ -1,7 +1,7 @@
 # ingrid
 lightweight and minimalist structure for building REST API
 
-**Config**
+### Config
 create a dotenv file in the root directory and add these line
 
 ``` dotenv
