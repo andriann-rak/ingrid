@@ -1,0 +1,13 @@
+POST http://localhost:3000/todo
+Content-Type: application/json
+
+{
+  "firstname": "Andriann",
+  "lastname": "Rakoto",
+  "email": "andrianina.rakoto@gmail.com"
+}
+
+<> 2021-07-05T040907.200.json
+
+###
+
