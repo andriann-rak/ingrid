@@ -7,13 +7,13 @@ lightweight and minimalist structure for building REST API
 create a dotenv file in the root directory and add these line and fill
 
 ``` dotenv
-#debug config | Do not change
+#debug config | DO NOT CHANGE
 DEBUG="http server database modules info"
 
 # server and database config
-PORT=
-HOST=
-DB_URL=
+PORT=YOUR_SERVER_PORT
+HOST=YOUR_SERVER_HOST
+DB_URL=YOUR_DATABASE_URL_STRING_CONNECTION
 ```
 
 ### Modules config
