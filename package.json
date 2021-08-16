@@ -1,0 +1,29 @@
+{
+  "name": "ingrid",
+  "version": "0.1.0",
+  "description": "lightweight and minimalist structure for building REST API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andriann-rak/ingrid.git"
+  },
+  "author": "Andriann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andriann-rak/ingrid/issues"
+  },
+  "homepage": "https://github.com/andriann-rak/ingrid#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "chalk": "^4.1.1",
+    "debug": "^4.3.2",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.2"
+  }
+}

@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33490879-5682-4bfd-a568-df6c362c3487" name="Default Changelist" comment="first blood" />
+    <list default="true" id="33490879-5682-4bfd-a568-df6c362c3487" name="Default Changelist" comment="first blood">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ingrid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/db/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/server/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/server/middlewares/cors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/server/middlewares/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/server/middlewares/logger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/server/middlewares/moduleInit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/server/middlewares/not-found.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/server/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/check-lisitra/checkLisitra.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/check-lisitra/checkLisitra.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/check-lisitra/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="andriann" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -84,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="HTTP Request.scratch#1">
+  <component name="RunManager">
     <configuration name="scratch#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" runType="Run single request">
       <method v="2" />
     </configuration>
